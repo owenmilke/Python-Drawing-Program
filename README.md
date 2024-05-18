@@ -18,6 +18,6 @@ Python Drawing Program is a drawing application similar to Microsoft Paint that 
 <h4>Usage:</h4>
 
 * To draw on the canvas simply click and drag the mouse around the canvas.
-* The toolbar cannot be drawn on.
+  * The toolbar (where brush colors and sizes are located) cannot be drawn on.
 * Clicking on a button will change brush color unless there is a label specifying otherwise.
 * Saving the drawing will create a .png file which can be found in drawings/drawing##.png
